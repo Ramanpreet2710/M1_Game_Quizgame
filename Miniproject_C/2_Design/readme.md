@@ -1,2 +1,2 @@
-![use case diagram](https://user-images.githubusercontent.com/77190311/143044094-99c026dd-da71-4f42-8171-2251edfba35f.png)
-![activity diagram](https://user-images.githubusercontent.com/77190311/143044123-0eaf181b-a1ab-4efc-a388-d947d7f0ebd1.png)
+<img width="560" alt="structural" src="https://user-images.githubusercontent.com/94223070/143044403-d27d00ff-0eb1-4a7d-a2f3-6adbe9971f58.png">
+
